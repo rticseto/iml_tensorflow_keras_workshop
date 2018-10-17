@@ -1,10 +1,2 @@
-conda create --name tensorflowTutorial
+conda create --name tensorflowTutorial tensorflow keras h5py pypng sklearn matplotlib numpy jupyter
 source activate tensorflowTutorial
-conda install tensorflow
-conda install keras
-conda install h5py
-conda install pypng
-conda install sklearn
-conda install matplotlib
-conda install numpy
-conda install jupyter
