@@ -1,6 +1,6 @@
 # IML TensorFlow and Keras Workshop
 
-This repository holds the slides and notebooks of the IML TensorFlow and Keras workshop held at the 2nd IML workshop.
+Branch based on the IML TensorFlow and Keras workshop held at the 2nd IML workshop.
 
 The workshop has these parts:
 
